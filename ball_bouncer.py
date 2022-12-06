@@ -2,6 +2,7 @@
 The ball bouncing object itself, and all its logic.
 
 You probably don't want to edit this directly, but referencing it might give you an idea of some of the things you can modify!
+
 """
 
 import random
